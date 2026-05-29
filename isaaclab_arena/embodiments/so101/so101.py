@@ -44,7 +44,7 @@ _SO101_FOLLOWER_CFG = ArticulationCfg(
         ),
     ),
     init_state=ArticulationCfg.InitialStateCfg(
-        pos=(-0.20, 0.40, 0.71),
+        pos=(0.0, 0.0, 0.0),
         rot=(0.0, 0.0, 0.0, 1.0),
         joint_pos={
             "shoulder_pan": 0.0,
